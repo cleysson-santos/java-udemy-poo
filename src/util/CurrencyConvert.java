@@ -1,4 +1,4 @@
-package entities;
+package util;
 
 public class CurrencyConvert {
     public static final double IOF = 0.06;
