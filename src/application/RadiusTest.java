@@ -5,7 +5,7 @@ import util.Calculator;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Radius {
+public class RadiusTest {
     static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
