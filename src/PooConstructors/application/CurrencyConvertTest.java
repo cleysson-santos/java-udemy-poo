@@ -1,6 +1,6 @@
-package application;
+package PooConstructors.application;
 
-import util.CurrencyConvert;
+import PooConstructors.util.CurrencyConvert;
 
 import java.util.Locale;
 import java.util.Scanner;

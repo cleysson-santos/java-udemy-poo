@@ -1,4 +1,4 @@
-package entities;
+package PooConstructors.entities;
 
 public class Employee {
     public String name;

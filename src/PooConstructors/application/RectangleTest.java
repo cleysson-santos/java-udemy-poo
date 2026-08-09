@@ -1,6 +1,6 @@
-package application;
+package PooConstructors.application;
 
-import entities.Rectangle;
+import PooConstructors.entities.Rectangle;
 
 import java.util.Locale;
 import java.util.Scanner;

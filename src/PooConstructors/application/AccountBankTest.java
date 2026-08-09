@@ -1,6 +1,6 @@
-package application;
+package PooConstructors.application;
 
-import entities.Account;
+import PooConstructors.entities.Account;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package application;
+package PooConstructors.application;
 
-import util.Calculator;
+import PooConstructors.util.Calculator;
 
 import java.util.Locale;
 import java.util.Scanner;

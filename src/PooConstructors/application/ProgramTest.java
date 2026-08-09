@@ -1,6 +1,6 @@
-package application;
+package PooConstructors.application;
 
-import entities.Triangle;
+import PooConstructors.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

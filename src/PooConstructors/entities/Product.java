@@ -1,4 +1,4 @@
-package entities;
+package PooConstructors.entities;
 
 public class Product {
     private String name;

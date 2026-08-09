@@ -1,6 +1,6 @@
-package application;
+package PooConstructors.application;
 
-import entities.Product;
+import PooConstructors.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
