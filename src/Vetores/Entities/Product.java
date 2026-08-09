@@ -1,4 +1,4 @@
-package Vetores.entities;
+package Vetores.Entities;
 
 public class Product {
     private String name;

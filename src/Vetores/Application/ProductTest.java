@@ -1,6 +1,6 @@
-package Vetores.application;
+package Vetores.Application;
 
-import Vetores.entities.Product;
+import Vetores.Entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
