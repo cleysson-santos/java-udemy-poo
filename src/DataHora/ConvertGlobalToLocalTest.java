@@ -5,7 +5,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 
-public class ConvertGlobalToLocal {
+public class ConvertGlobalToLocalTest {
     static void main(String[] args) {
         LocalDate d04 = LocalDate.parse("2026-08-11");
         LocalDateTime d05 = LocalDateTime.parse("2026-08-11T02:30");
