@@ -1,9 +1,9 @@
-package EnumeracoesComposicao.Exercicio01.Application;
+package EnumeracoesComposicao.Exercicios.Exercicio01.Application;
 
-import EnumeracoesComposicao.Exercicio01.Entities.Department;
-import EnumeracoesComposicao.Exercicio01.Entities.HourContract;
-import EnumeracoesComposicao.Exercicio01.Entities.Worker;
-import EnumeracoesComposicao.Exercicio01.enums.WorkerLevel;
+import EnumeracoesComposicao.Exercicios.Exercicio01.Entities.Department;
+import EnumeracoesComposicao.Exercicios.Exercicio01.Entities.HourContract;
+import EnumeracoesComposicao.Exercicios.Exercicio01.Entities.Worker;
+import EnumeracoesComposicao.Exercicios.Exercicio01.enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

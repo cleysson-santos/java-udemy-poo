@@ -1,4 +1,4 @@
-package EnumeracoesComposicao.Exercicio01.Entities;
+package EnumeracoesComposicao.Exercicios.Exercicio01.Entities;
 
 public class Department {
     private String name;
