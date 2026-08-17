@@ -7,19 +7,28 @@ import HerancaEPolimorfismo.Entities.SavingsAccount;
 public class AccountTest {
     static void main(String[] args) {
 
-        Account account1 = new Account(1000, "Alex", 0.0);
+        Account account1 = new Account(1000, "Alex", 1000.0);
         BusinessAccount businessAccount1 = new BusinessAccount(1001, "Maria", 0.0, 500.0);
 
         // UPCASTING
 
         Account account2 = businessAccount1;
-        Account account3 = new BusinessAccount(1003, "Bob", 0.0, 200.0);
-        Account account4 = new SavingsAccount(1004, "Anna", 0.0, 0.01);
+        Account account3 = new BusinessAccount(1003, "Bob", 1000.0, 500.0);
+        Account account4 = new SavingsAccount(1004, "Anna", 1000.0, 0.01);
 
         //DOWNCASTING
 
-        BusinessAccount account5 = (BusinessAccount) account3;
-        account5.loan(100.0);
+//        BusinessAccount account5 = (BusinessAccount) account3;
+//        account5.loan(100.0);
+
+        account1.withdraw(200.0);
+        System.out.println(account1.getBalance());
+
+        account4.withdraw(200.0);
+        System.out.println(account4.getBalance());
+
+        account3.withdraw(200.0);
+        System.out.println(account3.getBalance());
 
         if(account4 instanceof BusinessAccount) {
             BusinessAccount account6 = (BusinessAccount) account4;
