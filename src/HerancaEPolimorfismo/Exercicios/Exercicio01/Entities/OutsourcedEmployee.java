@@ -1,4 +1,4 @@
-package HerancaEPolimorfismo.Exercicios.Entities;
+package HerancaEPolimorfismo.Exercicios.Exercicio01.Entities;
 
 public class OutsourcedEmployee extends Employee{
     private Double additionalCharge;

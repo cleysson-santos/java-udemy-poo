@@ -1,7 +1,4 @@
-package HerancaEPolimorfismo.Exercicios.Entities;
-
-import java.util.ArrayList;
-import java.util.List;
+package HerancaEPolimorfismo.Exercicios.Exercicio01.Entities;
 
 public class Employee {
     private String name;

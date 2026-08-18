@@ -1,7 +1,7 @@
-package HerancaEPolimorfismo.Exercicios.Application;
+package HerancaEPolimorfismo.Exercicios.Exercicio01.Application;
 
-import HerancaEPolimorfismo.Exercicios.Entities.Employee;
-import HerancaEPolimorfismo.Exercicios.Entities.OutsourcedEmployee;
+import HerancaEPolimorfismo.Exercicios.Exercicio01.Entities.Employee;
+import HerancaEPolimorfismo.Exercicios.Exercicio01.Entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;
