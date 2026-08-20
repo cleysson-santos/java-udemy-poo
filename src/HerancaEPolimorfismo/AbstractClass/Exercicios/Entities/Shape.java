@@ -1,0 +1,24 @@
+package HerancaEPolimorfismo.AbstractClass.Exercicios.Entities;
+
+import HerancaEPolimorfismo.AbstractClass.Exercicios.Entities.Enums.Color;
+
+public abstract class Shape {
+    private Color color;
+
+    public Shape() {
+    }
+
+    public Shape(Color color) {
+        this.color = color;
+    }
+
+    public Color getColor() {
+        return color;
+    }
+
+    public void setColor(Color color) {
+        this.color = color;
+    }
+
+    public abstract double area();
+}
