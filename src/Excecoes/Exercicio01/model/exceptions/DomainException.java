@@ -1,4 +1,4 @@
-package Excecoes.Exercicios01.model.exceptions;
+package Excecoes.Exercicio01.model.exceptions;
 
 public class DomainException extends RuntimeException {
     public DomainException(String msg) {

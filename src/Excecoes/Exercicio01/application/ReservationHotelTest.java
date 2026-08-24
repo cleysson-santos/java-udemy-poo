@@ -1,7 +1,7 @@
-package Excecoes.Exercicios01.application;
+package Excecoes.Exercicio01.application;
 
-import Excecoes.Exercicios01.model.entities.Reservation;
-import Excecoes.Exercicios01.model.exceptions.DomainException;
+import Excecoes.Exercicio01.model.entities.Reservation;
+import Excecoes.Exercicio01.model.exceptions.DomainException;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
