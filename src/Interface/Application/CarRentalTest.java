@@ -36,7 +36,7 @@ public class CarRentalTest {
 
         rentalService.processInvoice(cr);
 
-        System.out.print("FATURA: ");
+        System.out.println("FATURA: ");
         System.out.println("Pagamento básico: " + String.format("%.2f", cr.getInvoice().getBasicPayment()));
         System.out.println("Imposto: " + String.format("%.2f",cr.getInvoice().getTax()));
         System.out.println("Pagamento total: " + String.format("%.2f",cr.getInvoice().getTotalPayment()));
