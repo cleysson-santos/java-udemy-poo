@@ -1,4 +1,4 @@
-package Interface.Model.Services;
+package Interface.Exercicio01.Model.Services;
 
 public class BrazilTaxService implements TaxService{
     public double tax(double amount) {

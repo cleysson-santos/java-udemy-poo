@@ -1,4 +1,4 @@
-package Interface.Entities;
+package Interface.Exercicio01.Entities;
 
 public class Vehicle {
     private String model;

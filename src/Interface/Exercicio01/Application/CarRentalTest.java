@@ -1,9 +1,9 @@
-package Interface.Application;
+package Interface.Exercicio01.Application;
 
-import Interface.Entities.CarRental;
-import Interface.Entities.Vehicle;
-import Interface.Model.Services.BrazilTaxService;
-import Interface.Model.Services.RentalService;
+import Interface.Exercicio01.Entities.CarRental;
+import Interface.Exercicio01.Entities.Vehicle;
+import Interface.Exercicio01.Model.Services.BrazilTaxService;
+import Interface.Exercicio01.Model.Services.RentalService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

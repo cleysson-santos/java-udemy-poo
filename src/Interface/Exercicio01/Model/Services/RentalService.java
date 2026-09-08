@@ -1,7 +1,7 @@
-package Interface.Model.Services;
+package Interface.Exercicio01.Model.Services;
 
-import Interface.Entities.CarRental;
-import Interface.Entities.Invoice;
+import Interface.Exercicio01.Entities.CarRental;
+import Interface.Exercicio01.Entities.Invoice;
 
 import java.time.Duration;
 
